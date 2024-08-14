@@ -16,7 +16,7 @@ export default function Home() {
             className='mb-12 h-10 w-fit'
           />
           <PatientForm />
-          <div className='text-regular-14 mt-20 flex justify-between'>
+          <div className='text-regular-14 mt-20 flex justify-between text-sm'>
             <p className='justify-items-end text-dark-600 xl:text-left'>
               © 2024 CarePulse
             </p>
